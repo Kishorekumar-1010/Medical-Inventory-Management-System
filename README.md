@@ -1,4 +1,4 @@
-# Medical Inventory Management System  
+# Medical Inventory Management System (Salesforce)
 
 A Salesforce-based project to manage **medical inventory**, track stock levels, manage suppliers, and streamline hospital/clinic operations. This system ensures that critical medical supplies are always available, reduces wastage, and improves overall efficiency.  
 
